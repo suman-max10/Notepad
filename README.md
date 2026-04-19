@@ -27,6 +27,9 @@ python notepad.py
 
 - `notepad.py` - main Tkinter application
 
+# I will add more featue in it. 
+
+
 ## Notes
 
 - The app currently opens files using binary mode. If you see unexpected text behavior with some files, switching to text mode can improve compatibility.
