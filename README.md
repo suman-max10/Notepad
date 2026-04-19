@@ -12,7 +12,7 @@ A simple desktop notepad application built with Python and Tkinter.
 
 ## Requirements
 
-- Python 3.x
+- Python 3.
 - Tkinter (usually included with standard Python installations)
 
 ## Run
