@@ -1,3 +1,5 @@
+<!-- @format -->
+
 # Notepad (Tkinter)
 
 A simple desktop notepad application built with Python and Tkinter.
@@ -23,13 +25,19 @@ From the project folder:
 python notepad.py
 ```
 
-## Project Structure
+## Screenshot
 
+![Notepad Screenshot](Notepad/image.png)
+
+```
+
+## Project Structure
 - `notepad.py` - main Tkinter application
 
-# I will add more featue in it. 
+# I will add more featue in it.
 
 
 ## Notes
 
 - The app currently opens files using binary mode. If you see unexpected text behavior with some files, switching to text mode can improve compatibility.
+```
